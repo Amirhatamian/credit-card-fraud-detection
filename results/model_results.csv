@@ -1,0 +1,4 @@
+model,pr_auc,roc_auc,recall,precision,share_flagged,false_alarms_per_day
+Logistic regression,0.296,0.978,0.952,0.039,0.0952,47.9
+Gradient boosting (scikit-learn),0.806,0.987,0.936,0.385,0.0094,3.0
+XGBoost,0.910,0.997,0.944,0.490,0.0075,2.0
